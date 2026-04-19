@@ -13,6 +13,10 @@ Gerçek zamanlı çizim, webcam PiP, ses kaydı, timeline editörü ve çok daha
 
 </div>
 
+
+https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
+
+
 ---
 
 ## 📋 İçindekiler
