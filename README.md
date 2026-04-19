@@ -1,7 +1,4 @@
 # 🎬 AptozaQ2 Ekaran Kayıt ve Video Edit Pro
-<img width="6400" height="6400" alt="AQ2" src="https://github.com/user-attachments/assets/ad4d505e-6995-4780-a044-a32cce859114" />
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge)
