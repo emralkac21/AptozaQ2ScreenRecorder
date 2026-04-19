@@ -1,0 +1,51 @@
+# ============================================================
+# EkranKayıt Pro - Python Bağımlılıkları
+# ============================================================
+# Kurulum: pip install -r requirements.txt
+#
+# Sistem bağımlılıkları (pip ile kurulmaz):
+#   - ffmpeg  → https://ffmpeg.org/download.html
+#   - PortAudio (PyAudio için):
+#       Linux:  sudo apt install portaudio19-dev
+#       macOS:  brew install portaudio
+#       Windows: genellikle ek kurulum gerekmez
+# ============================================================
+
+# ── Arayüz ──────────────────────────────────────────────────
+customtkinter>=5.2.0        # Modern dark-theme Tkinter widget'ları
+
+# ── Görüntü İşleme ──────────────────────────────────────────
+Pillow>=10.0.0               # PIL: görüntü işleme, filigran, çizim katmanı
+numpy>=1.24.0                # Hızlı dizi işlemleri (frame buffer)
+opencv-python>=4.8.0         # OpenCV: video okuma/yazma, renk dönüşümü, zoom
+
+# ── Ekran Yakalama ──────────────────────────────────────────
+mss>=9.0.0                   # Hızlı çoklu ekran yakalama
+
+# ── Ses Kaydı ────────────────────────────────────────────────
+pyaudio>=0.2.13              # Mikrofon kaydı (PortAudio bağlayıcısı)
+#
+# PyAudio kurulumu Windows'ta başarısız olursa:
+#   pip install pipwin
+#   pipwin install pyaudio
+# veya önceden derlenmiş wheel:
+#   https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+# ── Ses Önizleme ─────────────────────────────────────────────
+pygame>=2.5.0                # Ses önizleme oynatıcı (mixer)
+
+# ── İmleç Konumu ─────────────────────────────────────────────
+pyautogui>=0.9.54            # İmleç koordinatı alma (vurgulama + zoom takibi)
+
+# ── Global Kısayol Tuşları ────────────────────────────────────
+pynput>=1.7.6                # Global hotkey desteği (uygulama arka plandayken)
+#
+# pynput Linux'ta ek kurulum gerektirebilir:
+#   sudo apt install python3-xlib   # X11 tabanlı sistemler için
+
+# ============================================================
+# İsteğe Bağlı / Geliştirici Araçları
+# ============================================================
+# pyinstaller>=6.0.0         # Tek .exe dosyasına derleme
+# cx_Freeze>=6.15            # Alternatif paketleyici
+# ============================================================
