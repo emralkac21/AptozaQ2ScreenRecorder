@@ -287,20 +287,20 @@ ekrankayit-pro/
 
 | Sınıf | Dosya | Açıklama |
 |-------|-------|----------|
-| `App` | AQ2son.py | Ana pencere, sekme yönetimi, ayarlar |
-| `RecordingEngine` | AQ2son.py | Kayıt motoru; ekran, webcam, ses thread'leri |
-| `WebcamVideoStream` | AQ2son.py | Webcam'i ayrı thread'de okur |
-| `WebcamPreviewWindow` | AQ2son.py | Canlı webcam önizleme penceresi |
-| `DrawingOverlay` | AQ2son.py | Şeffaf çizim katmanı (2 Toplevel pencere) |
-| `FloatingToolWindow` | AQ2son.py | Yüzer araç paneli (always-on-top) |
-| `RegionSelector` | AQ2son.py | Ekran bölgesi seçim arayüzü |
-| `VideoEditor` | AQ2son.py | ffmpeg tabanlı video işlemleri |
-| `AudioEditor` | AQ2son.py | ffmpeg tabanlı ses işlemleri |
-| `TimelineEditor` | AQ2son.py | Çok parçalı timeline editörü |
-| `ClipData` | AQ2son.py | Timeline klip verisi |
-| `AudioTrack` | AQ2son.py | Timeline ses parçası verisi |
-| `TextOverlay` | AQ2son.py | Timeline metin katmanı |
-| `TransitionData` | AQ2son.py | Klip geçiş efekti verisi |
+| `App` | AptozaQ2main.py | Ana pencere, sekme yönetimi, ayarlar |
+| `RecordingEngine` | AptozaQ2main.py | Kayıt motoru; ekran, webcam, ses thread'leri |
+| `WebcamVideoStream` | AptozaQ2main.py | Webcam'i ayrı thread'de okur |
+| `WebcamPreviewWindow` | AptozaQ2main.py | Canlı webcam önizleme penceresi |
+| `DrawingOverlay` | AptozaQ2main.py | Şeffaf çizim katmanı (2 Toplevel pencere) |
+| `FloatingToolWindow` | AptozaQ2main.py | Yüzer araç paneli (always-on-top) |
+| `RegionSelector` | AptozaQ2main.py | Ekran bölgesi seçim arayüzü |
+| `VideoEditor` | AptozaQ2main.py | ffmpeg tabanlı video işlemleri |
+| `AudioEditor` | AptozaQ2main.py | ffmpeg tabanlı ses işlemleri |
+| `TimelineEditor` | AptozaQ2main.py | Çok parçalı timeline editörü |
+| `ClipData` | AptozaQ2main.py | Timeline klip verisi |
+| `AudioTrack` | AptozaQ2main.py | Timeline ses parçası verisi |
+| `TextOverlay` | AptozaQ2main.py | Timeline metin katmanı |
+| `TransitionData` | AptozaQ2main.py | Klip geçiş efekti verisi |
 | `ImageToVideoEditor` | ImageToVideoModule.py | Görselden video oluşturma modülü |
 
 ### Kayıt Pipeline'ı
