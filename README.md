@@ -33,6 +33,9 @@ https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
 
 ## ✨ Özellikler
 <img width="1919" height="1079" alt="ses8" src="https://github.com/user-attachments/assets/3255a3b3-3305-4d24-8447-7748fa8c737f" />
+
+---
+
 <img width="1919" height="1079" alt="AnaEkran1" src="https://github.com/user-attachments/assets/aae79bd8-4e52-4d22-95dc-772a5cc274dc" />
 
 ### 🖥️ Ekran Kaydı
@@ -47,6 +50,9 @@ https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
 - **Senkronizasyon** — Ses ve video ayrı thread'lerde kaydedilir, `ffmpeg -aresample async=1` ile birleştirilir
 - **Duraklatma desteği** — Duraklama sırasında ses de otomatik olarak durdurulur
 <img width="1919" height="1079" alt="ses9" src="https://github.com/user-attachments/assets/2c23b6be-34f6-40fd-a82c-95d563e16528" />
+
+---
+
 <img width="1919" height="1079" alt="ses8" src="https://github.com/user-attachments/assets/36964433-313a-4bc9-9dac-4aa38d7c8511" />
 
 ### 📷 Webcam (Picture-in-Picture)
@@ -105,6 +111,9 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 
 ### ⏰ Zamanlanmış Kayıt
 <img width="1919" height="1079" alt="timeline6" src="https://github.com/user-attachments/assets/3dc4454c-cf56-4296-9c84-32988399b35a" />
+
+---
+
 <img width="1919" height="1079" alt="ayarlar10" src="https://github.com/user-attachments/assets/894e5265-4635-4a0e-b9b0-fff675fdbbbf" />
 
 - **Başlangıç ve bitiş saati** ayarla (SS:DD formatı)
@@ -115,6 +124,9 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 
 ## 🛠️ Video & Ses Editörü
 <img width="1919" height="1079" alt="timeline6" src="https://github.com/user-attachments/assets/dec7947f-8d04-464f-b86c-525d83085e37" />
+
+---
+
 <img width="1919" height="1079" alt="timeline7" src="https://github.com/user-attachments/assets/d83a9606-2f77-4366-b064-008a268af76a" />
 
 ### ✂️ Video Editörü
@@ -126,6 +138,9 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 ### 🎵 Ses Editörü
 
 <img width="1919" height="1079" alt="ses8" src="https://github.com/user-attachments/assets/841c87bb-90cc-47f9-a3f2-c5c1b09f4aeb" />
+
+---
+
 <img width="1919" height="1079" alt="ses9" src="https://github.com/user-attachments/assets/d7e9aaa7-2532-4449-b7ca-e231cbdfe129" />
 
 - **Kırpma** — Saniye bazlı ses kırpma (8 format destekli)
@@ -138,6 +153,9 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 Tam özellikli çok parçalı video editörü:
 
 <img width="1919" height="1079" alt="timeline7" src="https://github.com/user-attachments/assets/17e1f7a7-bdcd-4c7b-8467-5142911a9758" />
+
+---
+
 <img width="1919" height="1079" alt="timeline6" src="https://github.com/user-attachments/assets/a76c08b6-4826-4a28-8606-94a84f5564f1" />
 
 - **Sürükle & Bırak** — Klipleri timeline'da serbestçe konumlandır
