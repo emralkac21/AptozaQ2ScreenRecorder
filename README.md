@@ -138,6 +138,8 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 ---
 
 ## 🛠️ Video & Ses Editörü
+
+---
 <img width="1919" height="1079" alt="timeline6" src="https://github.com/user-attachments/assets/dec7947f-8d04-464f-b86c-525d83085e37" />
 
 ---
@@ -192,6 +194,8 @@ Tam özellikli çok parçalı video editörü:
 - **Export** — Tüm timeline'ı ffmpeg concat + filter_complex ile tek dosyaya aktar
 
 ### 🖼️ Görselden Video (ImageToVideoModule)
+---
+
 <img width="1919" height="1079" alt="görselkayıt12" src="https://github.com/user-attachments/assets/e54f2fd8-85b8-4ca2-9694-10f1c681d4fd" />
 
 ---
@@ -300,8 +304,12 @@ python AQ2son.py
 2. **Araç Paneli** otomatik açılır — araç, renk ve kalınlık seçin.
 3. Ekranın üzerinde çizin; çizimler videonun içine gömülür.
 4. **"Ekranı Temizle"** ile tüm çizimleri silin.
+
+---
+
 <img width="1919" height="1079" alt="araçlarzoom11" src="https://github.com/user-attachments/assets/91152a59-7406-411b-98f8-193aca631a9c" />
 
+---
 ### Timeline Editörü
 1. **"Timeline Editörü"** sekmesine geçin.
 2. **"Video Ekle"** ile klip(ler) içe aktarın.
@@ -317,7 +325,7 @@ python AQ2son.py
 
 ```
 ekrankayit-pro/
-├── AQ2son.py               # Ana uygulama (UI + Engine)
+├── AptozaQ2main.py         # Ana uygulama (UI + Engine)
 ├── ImageToVideoModule.py   # Görselden video oluşturma modülü
 ├── AQ2.ico                 # Uygulama ikonu (opsiyonel)
 ├── requirements.txt
