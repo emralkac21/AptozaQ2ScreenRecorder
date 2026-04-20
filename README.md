@@ -38,6 +38,8 @@ https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
 
 <img width="1919" height="1079" alt="AnaEkran1" src="https://github.com/user-attachments/assets/aae79bd8-4e52-4d22-95dc-772a5cc274dc" />
 
+---
+
 ### 🖥️ Ekran Kaydı
 - **Tam ekran veya bölge seçimi** — sürükleyip bırakarak piksel hassasiyetinde alan seçin
 - **Ayarlanabilir FPS** — 10, 15, 20, 24, 30 veya 60 FPS seçeneği
@@ -49,15 +51,22 @@ https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
 - **Sistem mikrofonu** — PyAudio ile 44100 Hz, stereo, 16-bit PCM
 - **Senkronizasyon** — Ses ve video ayrı thread'lerde kaydedilir, `ffmpeg -aresample async=1` ile birleştirilir
 - **Duraklatma desteği** — Duraklama sırasında ses de otomatik olarak durdurulur
+
+---
+
 <img width="1919" height="1079" alt="ses9" src="https://github.com/user-attachments/assets/2c23b6be-34f6-40fd-a82c-95d563e16528" />
 
 ---
 
 <img width="1919" height="1079" alt="ses8" src="https://github.com/user-attachments/assets/36964433-313a-4bc9-9dac-4aa38d7c8511" />
 
+---
+
 ### 📷 Webcam (Picture-in-Picture)
 
 <img width="1919" height="1079" alt="kameraönizleme13" src="https://github.com/user-attachments/assets/cf305d9e-a0ea-4e3b-a47c-335f811a3c31" />
+
+---
 
 - **Canlı PiP katmanı** — Webcam görüntüsü videonun üzerine gömülür
 - **4 köşe konumu** — Sol üst, sağ üst, sol alt, sağ alt
@@ -68,6 +77,8 @@ https://github.com/user-attachments/assets/aefcdbb3-8ee0-430f-9484-a46560762a28
 
 ### 🎨 Gerçek Zamanlı Çizim Katmanı
 <img width="1919" height="1079" alt="araçlarzoom11" src="https://github.com/user-attachments/assets/2c361216-c556-4dd7-9f40-dfea3c4fea08" />
+
+---
 
 Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 
@@ -106,6 +117,8 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 ### 📸 Ekran Görüntüsü
 <img width="1919" height="1079" alt="görselkayıt12" src="https://github.com/user-attachments/assets/0400baa1-6f05-4f4e-a2c7-94a2defb158d" />
 
+---
+
 - Kayıt sırasında veya bağımsız olarak PNG ekran görüntüsü al
 - Otomatik zaman damgalı dosya adı
 
@@ -115,6 +128,8 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 ---
 
 <img width="1919" height="1079" alt="ayarlar10" src="https://github.com/user-attachments/assets/894e5265-4635-4a0e-b9b0-fff675fdbbbf" />
+
+---
 
 - **Başlangıç ve bitiş saati** ayarla (SS:DD formatı)
 - Arka planda bekleyen thread, belirlenen saatte kaydı otomatik başlatır/durdurur
@@ -129,6 +144,8 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 
 <img width="1919" height="1079" alt="timeline7" src="https://github.com/user-attachments/assets/d83a9606-2f77-4366-b064-008a268af76a" />
 
+---
+
 ### ✂️ Video Editörü
 - **Kırpma (Trim)** — Başlangıç ve bitiş saniyesi girerek video kırpma
 - **Birleştirme (Merge)** — Birden fazla videoyu sırayla tek dosyaya birleştir
@@ -142,6 +159,8 @@ Kayıt sırasında ekranın üzerine şeffaf bir katmanda çizim yapın:
 ---
 
 <img width="1919" height="1079" alt="ses9" src="https://github.com/user-attachments/assets/d7e9aaa7-2532-4449-b7ca-e231cbdfe129" />
+
+---
 
 - **Kırpma** — Saniye bazlı ses kırpma (8 format destekli)
 - **Bölme (Split)** — Ses dosyasını belirli bir noktadan ikiye böl
@@ -158,6 +177,8 @@ Tam özellikli çok parçalı video editörü:
 
 <img width="1919" height="1079" alt="timeline6" src="https://github.com/user-attachments/assets/a76c08b6-4826-4a28-8606-94a84f5564f1" />
 
+---
+
 - **Sürükle & Bırak** — Klipleri timeline'da serbestçe konumlandır
 - **Kenar Kırpma** — Sol/sağ kenarları sürükleyerek trim et
 - **Hız Kontrolü** — Her klip için 0.25× – 4× hız ayarı
@@ -172,6 +193,8 @@ Tam özellikli çok parçalı video editörü:
 
 ### 🖼️ Görselden Video (ImageToVideoModule)
 <img width="1919" height="1079" alt="görselkayıt12" src="https://github.com/user-attachments/assets/e54f2fd8-85b8-4ca2-9694-10f1c681d4fd" />
+
+---
 
 - PNG / JPG / BMP / WebP görsellerden video oluştur
 - Her görsel için ayrı süre ayarı
